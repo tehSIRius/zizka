@@ -25,7 +25,7 @@
   "homepage": "https://github.com/tehSIRius/zizka-backend#readme",
   "devDependencies": {
     "@types/express": "^4.17.12",
-    "@types/jest": "^26.0.23",
+    "@types/jest": "^26.0.24",
     "@types/pino": "^6.3.8",
     "@typescript-eslint/eslint-plugin": "^4.28.5",
     "@typescript-eslint/parser": "^4.28.1",
