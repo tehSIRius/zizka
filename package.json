@@ -45,7 +45,7 @@
     "express-pino-logger": "^6.0.0",
     "nodemon": "^2.0.9",
     "pg": "^8.7.1",
-    "pino": "^6.11.3",
+    "pino": "^6.13.0",
     "pino-pretty": "^5.1.2",
     "reflect-metadata": "^0.1.13",
     "ts-node": "^10.1.0",
